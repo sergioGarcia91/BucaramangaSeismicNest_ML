@@ -1,4 +1,3 @@
-# BucaramangaSeismicNest_ML
 Machine learning in the Bucaramanga Seismic Nest.
 
 # Towards Earthquake forecasting in the Bucaramanga Nest, a machine learning approach
