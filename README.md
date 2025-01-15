@@ -1,7 +1,6 @@
 # BucaramangaSeismicNest_ML
 Machine learning in the Bucaramanga Seismic Nest.
 
-
 # Towards Earthquake forecasting in the Bucaramanga Nest, a machine learning approach
 
 This repository compiles the notebooks used for generating Artificial Neural Network (ANN) models to estimate the occurrence of seismic events with magnitudes greater than 4.5. The work was developed in Google Colab, using a sequential approach in which the dataset was progressively evaluated and considerations were made as the work advanced.
@@ -32,6 +31,13 @@ The consultation was conducted using the Seismicity Catalog of the Servicio Geol
 
 > Subsequently, events from January and February 2024 were considered for reevaluating the models, as the models for December indicated a possible occurrence of seismic events.
 
+## Data
+
+The original information is available for download in the **Data** folder.
+
+# Models
+
+In the respective folders named **ModelosMLP_Class**, you can find the different models generated during each version of the training process.
 
 
 
