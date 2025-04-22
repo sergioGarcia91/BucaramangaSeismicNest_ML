@@ -15,6 +15,7 @@ The content of each notebook is described below:
 - **ML_SismosNido_7**: Based on previous results, the ISC catalog for the same geographic quadrant is consulted.
 - **ML_SismosNido_8**: The number of layers in the models is modified to adjust them to a pyramidal structure.
 - **ML_SismosNido_9**: Notebook presenting a tentative and speculative calculation of the orientation and inclination of the plane generated from the location of the seismic events in the "nido."
+- **ML_SismosNido_10**: This notebook was developed as part of a test conducted during the manuscript's revision phase.
 
 # Catalog
 
