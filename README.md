@@ -16,6 +16,7 @@ The content of each notebook is described below:
 - **ML_SismosNido_8**: The number of layers in the models is modified to adjust them to a pyramidal structure.
 - **ML_SismosNido_9**: Notebook presenting a tentative and speculative calculation of the orientation and inclination of the plane generated from the location of the seismic events in the "nido."
 - **ML_SismosNido_10**: This notebook was developed as part of a test conducted during the manuscript's revision phase.
+- **ML_SismosNido_11**: This notebook was developed as part of a test conducted during the manuscript's revision phase. The importance of the input variables was evaluated using SHAP (SHapley Additive Explanations).
 
 # Catalog
 
