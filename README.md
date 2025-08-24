@@ -17,6 +17,7 @@ The content of each notebook is described below:
 - **ML_SismosNido_9**: Notebook presenting a tentative and speculative calculation of the orientation and inclination of the plane generated from the location of the seismic events in the "nido."
 - **ML_SismosNido_10**: This notebook was developed as part of a test conducted during the manuscript's revision phase.
 - **ML_SismosNido_11**: This notebook was developed as part of a test conducted during the manuscript's revision phase. The importance of the input variables was evaluated using SHAP (SHapley Additive Explanations).
+- **ML_SismosNido_12**: This notebook was developed as part of a test conducted during manuscript revision. We compared MLPClassifier models against logistic regression and LDA (Linear Discriminant Analysis), and we also compared the LDA projection with a two-component PCA (Principal Component Analysis).
 
 # Catalog
 
